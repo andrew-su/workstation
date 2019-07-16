@@ -82,3 +82,6 @@ brew "wrK"
 # pairing
 tap "git-duet/tap"
 brew "git-duet/tap/git-duet"
+
+# riff
+brew "riff"
